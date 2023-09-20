@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/*changed to class selector instead of element selector*/
 .body {
     background-color: #d9dcd6;
 }
