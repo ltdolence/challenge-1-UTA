@@ -101,19 +101,8 @@ h3 {
     text-align: center;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+/* Eliminated repetitive code that was separated into three different selectors and moved to one selector */
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
