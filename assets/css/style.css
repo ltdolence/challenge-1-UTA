@@ -15,12 +15,14 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+/*Simplified selector to just h1*/
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+/*Removed .header h1 before .seo tag*/
+.seo {
     color: #d9dcd6;
 }
 
