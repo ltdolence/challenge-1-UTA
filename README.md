@@ -1,5 +1,14 @@
 # <Web Accessibility>
 
+## Languages Used
+
+- HTML
+- CSS
+
+## Deployment Date
+
+09/20/2023
+
 ## Description
 
 This was a homework assignment for UT Austin Coding Bootcamp, Module 1. I worked on making the website more accessible, in order to make it more easily accessible. To do this, I focused on adding semantic elements and making sure the images had alt descriptions.
@@ -16,15 +25,19 @@ N/A
 
 This website is used for Horiseon company, with information including search engine optimization, online reputation management, and social media marketing.
 
-## Credits
+![website Screenshot](assets/images/Horiseon.png)
 
-Christopher Bartlett- https://github.com/cbbartlett
-Andrew Shoener- https://github.com/ashoener
-Devon McFarlen- https://github.com/DevonMcfarlen
-Aeryk Dally- https://github.com/Acolyte03
-Matthew Casey- https://github.com/MAT-2 
+## Collaborator
 
-HTML Semantic Elements- https://www.w3schools.com/html/html5_semantic_elements.asp
+- Christopher Bartlett- https://github.com/cbbartlett
+- Andrew Shoener- https://github.com/ashoener
+- Devon McFarlen- https://github.com/DevonMcfarlen
+- Aeryk Dally- https://github.com/Acolyte03
+- Matthew Casey- https://github.com/MAT-2 
+
+## Sources Used
+
+- HTML Semantic Elements- https://www.w3schools.com/html/html5_semantic_elements.asp
 
 ## License
 
