@@ -81,7 +81,7 @@ p {
     margin-left: 20px;
 }
 
-/* Eliminated benefite-lead, benefit-brand, benefit-cost and placed in .benefits section */
+/* Eliminated benefit-lead, benefit-brand, benefit-cost and placed in .benefits section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -95,17 +95,8 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
+/* Eliminated the individual class selectors, as they all applied to the h3 element */
+h3 {
     margin-bottom: 10px;
     text-align: center;
 }
