@@ -36,7 +36,8 @@ nav{
     font-size: 20px;
 }
 
-.header nav ul {
+/*changed from .header nav ul to ID of unordered-list*/
+#unordered-list {
     list-style-type: none;
 }
 
